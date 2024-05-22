@@ -12,6 +12,13 @@ nav {
     justify-content: space-between;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
     z-index: 10;
+    font-weight: 600;
+    transition: 0.7s;
+
+    img {
+        transition: .7s;
+
+    }
 }
 
 .logo {
@@ -23,4 +30,22 @@ nav ul li {
     list-style: none;
     margin: 5px 20px;
     font-size: 16px;
+}
+
+.dark-nav {
+    color: rgb(35, 35, 35);
+    transition: 0.7s;
+
+    img {
+        background-color: rgba(35, 35, 35, 0.479);
+        border-radius: 25px;
+        padding: 0 15px;
+        transition: .7s;
+    }
+
+    .btn {
+        transition: 0.7s;
+        background-color: rgb(35, 35, 35);
+        color: #fff;
+    }
 }
