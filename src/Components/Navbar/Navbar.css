@@ -1,6 +1,7 @@
 nav {
     width: 100%;
-    background: #333;
+    /* background: #333; */
+    backdrop-filter: blur(10px);
     color: #fff;
     padding: 4px 0;
     position: fixed;
