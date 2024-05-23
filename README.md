@@ -22,7 +22,7 @@ if you dont use API Forms wont work
 
 - Responsive design for screens
 - Pure working orientation
-- Playeble video format
+- Playable video format
 - Support for all platforms
 - Cool working Contact Forms with info
 - Sent messages arrive directly as an e-mail.
@@ -45,6 +45,7 @@ Start Educity using npm
   
 ## Screenshots
 This is how the messages and information sent from the form are reflected in your e-mail.
+<hr>
 
 ![mail](https://github.com/wlanHan/Educity/assets/159789584/e2212a31-2313-427f-9a0b-bd7eb9d7d2aa)
 
