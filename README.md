@@ -8,7 +8,7 @@ The aim of this project is to design the dynamic website of an education company
 #### use your own api adress!
 
 ```http
-  GET /api/items
+  GET /api/item
 ```
 
 | Parametre | Type     | Desc                |
